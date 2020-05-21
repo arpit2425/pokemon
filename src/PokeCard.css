@@ -12,3 +12,10 @@
   /* width: 12px; */
   text-align: center;
 }
+.pokeccard {
+  transition: all ease 0.5s;
+}
+.pokeccard:hover {
+  transform: scale(1.25);
+  opacity: 0.7;
+}
